@@ -1,7 +1,8 @@
 # NetworkX_Game_Of_Thrones
+This is the data analysis of Game Of Thrones using networkx and graph data structure
 # Installation
 nxviz hiveplot  networkx.     
-This is the data analysis of Game Of Thrones using networkx and graph data structure
+
 ![Evolution](https://github.com/pritul2/NetworkX_Game_Of_Thrones/blob/master/Evolution.png)
 ![Figure1](https://github.com/pritul2/NetworkX_Game_Of_Thrones/blob/master/Figure_1.png)
 ![Figure2](https://github.com/pritul2/NetworkX_Game_Of_Thrones/blob/master/Figure_2.png)
